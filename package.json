@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/e-/skku-stat/issues"
     },
-    "homepage": "https://github.com/e-/skku-stat#readme"
+    "homepage": "https://github.com/e-/skku-stat#readme",
+    "devDependencies": {
+        "jest": "^26.6.3"
+    }
 }
