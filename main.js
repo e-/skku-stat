@@ -19,6 +19,7 @@ if (numbers.some((n) => isNaN(n))) {
 }
 
 let result;
+let test;
 switch (command) {
     case "sum":
         result = lib.sum(numbers);
