@@ -20,6 +20,6 @@
     },
     "homepage": "https://github.com/e-/skku-stat#readme",
     "devDependencies": {
-        "jest": "^26.6.3"
+        "jest": "^27.2.5"
     }
 }
